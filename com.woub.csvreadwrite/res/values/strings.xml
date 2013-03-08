@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">Csvreadwrite</string>
+	<string name="action_settings">Settings</string>
+	<string name="btnwrite"> Write to SD</string>
+	<string name="btnread"> Read from SD</string>
+	<string name="btncls"> Clear Screen</string>
+	<string name="btnexit"> Exit</string>
+
+</resources>
